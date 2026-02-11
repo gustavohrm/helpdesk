@@ -6,7 +6,8 @@
   ],
   "scripts": {
     "dev": "npm run dev --workspaces",
-    "build": "npm run build --workspaces"
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "devDependencies": {
     "prettier": "^3.8.1",
