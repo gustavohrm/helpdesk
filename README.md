@@ -1,4 +1,4 @@
-# Self-hosted & Open Source Helpesk
+# Volt: Self-hosted & Open Source Helpesk
 
 ## Teck stack
 

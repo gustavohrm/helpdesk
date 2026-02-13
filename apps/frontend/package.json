@@ -1,5 +1,5 @@
 {
-  "name": "@helpdesk/frontend",
+  "name": "@volt/frontend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
